@@ -19,7 +19,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=AWS,Azure,Docker,Git)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 https://www.credly.com/users/shailesh-gupta.9fd8745c/badges
