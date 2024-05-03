@@ -27,9 +27,10 @@
   - Scrum Master
   - Generative AI
   - Reverse Engineering for Terraform
+  - Automating Migration Strategies: Simplifying Transition Processes
 
 
- ## 🏆 Achievements
+ ## 🏆 Achievements (Certifications) 
 
 - 🌟 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ece99f42-f526-4763-b4d8-a38171c258d5/public_url)
 - 🌟 [FinOps Certified Practitioner](https://www.credly.com/badges/f8265be0-cea1-4843-8e75-9d4503817c7d/public_url)
