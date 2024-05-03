@@ -10,7 +10,7 @@
 - 📝 As a dedicated Cloud Consultant, I am passionate about sharing my expertise and insights in technology through my YouTube channel [Be3X](https://www.youtube.com/@Be3x74).
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), contributing to the tech community.
 
-## Connect With Me
+##📬Connect With Me
   Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss all things DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
 - [LinkedIn](www.linkedin.com/in/shailesh74)
 - [Credly](https://www.credly.com/users/shailesh-gupta.9fd8745c/badges)
@@ -18,7 +18,7 @@
 - [Github](https://github.com/ShailAdmin)
 
 
-## Tech Stack
+##✍️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,bitbucket,debian,elasticsearch,github,gitlab,grafana,ai,jenkins,kubernetes,linux,nginx,py,redhat,terraform,ubuntu,vscode,windows,wordpress)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
