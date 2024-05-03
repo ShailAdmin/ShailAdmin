@@ -31,7 +31,11 @@
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ece99f42-f526-4763-b4d8-a38171c258d5/public_url)
+- 🌟 [FinOps Certified Practitioner](https://www.credly.com/badges/f8265be0-cea1-4843-8e75-9d4503817c7d/public_url)
+- 🌟 [AWS Partner: Generative AI Essentials (Business)](https://www.credly.com/badges/34f8657f-a29e-4e3a-a87b-6998c0a11ecb/public_url)
+- 🌟 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/e14ea744-6673-4938-90c3-88b1c89f56c0/public_url)
+- 🌟 [AWS Knowledge: File Storage](https://www.credly.com/badges/e3d60348-e004-4280-a3fa-d8642241c66b/public_url)
 
 
 ## 📬 Get in Touch
