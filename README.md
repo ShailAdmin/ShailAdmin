@@ -2,7 +2,7 @@
 
 🚀 Cloud Consultant | AWS Certified | FinOps Certified | Automation Expert | Cloud Migration Expert |Driving Cloud Innovation at Amazon Web Services (AWS)
 
-![ShailAdmin's Stats](https://github-readme-stats.vercel.app/api?username=<ShailAdmin>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ShailAdmin's Stats](https://github-readme-stats.vercel.app/api?username=<shailadmin>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -19,7 +19,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,bitbucket,debian,elasticesearch,github,gitlab,grafana,ai,jenkins,kubernetes,linux,nginx,py,redhat,terraform,ubuntu,vscode,windows,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,bitbucket,debian,elasticsearch,github,gitlab,grafana,ai,jenkins,kubernetes,linux,nginx,py,redhat,terraform,ubuntu,vscode,windows,wordpress)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 https://www.credly.com/users/shailesh-gupta.9fd8745c/badges
