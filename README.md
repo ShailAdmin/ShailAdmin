@@ -18,7 +18,7 @@
 - [Github](https://github.com/ShailAdmin)
 
 
-## Tech Stack
+## ✍️Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,bitbucket,debian,elasticsearch,github,gitlab,grafana,ai,jenkins,kubernetes,linux,nginx,py,redhat,terraform,ubuntu,vscode,windows,wordpress)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
