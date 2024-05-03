@@ -1,25 +1,28 @@
 # Hi, I'm Shailesh Gupta! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+🚀 Cloud Consultant | AWS Certified | FinOps Certified | Automation Expert | Cloud Migration Expert |Driving Cloud Innovation at Amazon Web Services (AWS)
 
-![<ShailAdmin>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ShailAdmin's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I'm currently Working with Amazon Web Services(AWS) as Cloud Consultant.
+- 📝 As a dedicated Cloud Consultant, I am passionate about sharing my expertise and insights in technology through my YouTube channel [Be3X](https://www.youtube.com/@Be3x74).
+- 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), contributing to the tech community.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+## Connect With Me
+  [Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss all things DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.]
+- [LinkedIn](www.linkedin.com/in/shailesh74)
+- [Credly](https://www.credly.com/users/shailesh-gupta.9fd8745c/badges)
+- [Be3X](https://www.youtube.com/@Be3x74)
+- [Github](https://github.com/ShailAdmin)
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-
+https://www.credly.com/users/shailesh-gupta.9fd8745c/badges
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
