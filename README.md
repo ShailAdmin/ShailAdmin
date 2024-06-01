@@ -7,32 +7,11 @@
 <br/>
 ## 🚀 About Me
 
-- 🔭 I'm currently Working with Amazon Web Services(AWS) as Cloud Consultant.
+- 🔭 I'm currently Working with Amazon Web Services(AWS) as a Cloud Consultant.
 - 📝 As a dedicated Cloud Consultant, I am passionate about sharing my expertise and insights in technology through my YouTube channel [Be3X](https://www.youtube.com/@Be3x74).
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), [FinOps Foundation](https://www.finops.org/join/), contributing to the tech community.
 <br/>
-### 📝 My GitHub Stats
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=shailadmin&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=shailadmin"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=shailadmin&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailadmin&langs_count=10&layout=compact"/>
-        </td>
-    </tr>
-</table>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)
 
 ### 📬Connect With Me
   Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
