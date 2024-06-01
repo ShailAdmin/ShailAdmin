@@ -26,7 +26,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=shailadmin&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailadmin&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailadmin&langs_count=10&layout=compact"/>
         </td>
     </tr>
 </table>
