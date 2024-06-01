@@ -10,8 +10,6 @@
 - 🔭 I'm currently Working with Amazon Web Services(AWS) as a Cloud Consultant.
 - 📝 As a dedicated Cloud Consultant, I am passionate about sharing my expertise and insights in technology through my YouTube channel [Be3X](https://www.youtube.com/@Be3x74).
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), [FinOps Foundation](https://www.finops.org/join/), contributing to the tech community.
-<br/>
-
 
 ### 📬Connect With Me
   Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
