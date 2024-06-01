@@ -21,7 +21,8 @@
 ## ✍️Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,bitbucket,debian,elasticsearch,github,gitlab,grafana,ai,jenkins,kubernetes,linux,nginx,py,redhat,terraform,ubuntu,vscode,windows,wordpress)](https://skillicons.dev)
 
-### Below are the Few Repository for your Daily Work
+###<img width="22" alt="images" src="https://github.com/ShailAdmin/ShailAdmin/assets/73438626/31916ea7-80c5-4fd1-a4b1-8d0d4cae567b">
+ Below are the Few Repository for your Daily Work
 - [Tool Cheatsheet](https://github.com/ShailAdmin/CheatSheet)
 - [DevOps Tools Installation](https://github.com/ShailAdmin/DevOps-Installation)
 
