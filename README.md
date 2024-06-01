@@ -1,4 +1,4 @@
-# Hi, I'm Shailesh Gupta! 👋 ####  ![image title](https://rushter.com/counter.svg)
+# Hi, I'm Shailesh Gupta! 👋 ![image title](https://rushter.com/counter.svg)
 
 🚀 Cloud Consultant | AWS Certified | FinOps Certified | Automation Expert | Cloud Migration Expert | Driving Cloud Innovation at Amazon Web Services (AWS)
 
