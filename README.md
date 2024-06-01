@@ -3,7 +3,7 @@
 🚀 Cloud Consultant | AWS Certified | FinOps Certified | Automation Expert | Cloud Migration Expert | Driving Cloud Innovation at Amazon Web Services (AWS)
 
 ![ShailAdmin's Stats](https://github-readme-stats.vercel.app/api?username=ShailAdmin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shailadmin)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShailAdmin&theme=meta-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 <br/>
 ## 🚀 About Me
 
