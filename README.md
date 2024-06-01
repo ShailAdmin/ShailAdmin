@@ -31,8 +31,9 @@
     </tr>
 </table>
 <br/>
-## 📬Connect With Me
-  Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss all things DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
+
+### 📬Connect With Me
+  Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
 - [LinkedIn](www.linkedin.com/in/shailesh74)
 - [Credly](https://www.credly.com/users/shailesh-gupta.9fd8745c/badges)
 - [Be3X](https://www.youtube.com/@Be3x74)
