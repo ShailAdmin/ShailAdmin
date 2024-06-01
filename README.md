@@ -10,7 +10,7 @@
 - 📝 As a dedicated Cloud Consultant, I am passionate about sharing my expertise and insights in technology through my YouTube channel [Be3X](https://www.youtube.com/@Be3x74).
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), [FinOps Foundation](https://www.finops.org/join/), contributing to the tech community.
 
-### My GitHub Stats
+### 📝 My GitHub Stats
 
 <table>
     <tr>
@@ -65,10 +65,4 @@
 
 - Connect with me on [LinkdIn](https://www.linkedin.com/in/shailesh74)
 
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
