@@ -10,6 +10,26 @@
 - 📝 As a dedicated Cloud Consultant, I am passionate about sharing my expertise and insights in technology through my YouTube channel [Be3X](https://www.youtube.com/@Be3x74).
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), [FinOps Foundation](https://www.finops.org/join/), contributing to the tech community.
 
+### My GitHub Stats
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=colinbut&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
 ## 📬Connect With Me
   Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss all things DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
 - [LinkedIn](www.linkedin.com/in/shailesh74)
