@@ -70,6 +70,6 @@
 <a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
 <br />
 
-#### 5 . [laravel github profile view counter](https://github.com/caneco/laravel-github-profile-view-counter)
+####  ![image title](https://rushter.com/counter.svg)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
