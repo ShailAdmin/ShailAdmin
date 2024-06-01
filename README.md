@@ -32,7 +32,7 @@
     </tr>
 </table>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)
 
 ### 📬Connect With Me
   Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
