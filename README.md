@@ -1,18 +1,16 @@
 # Hi, I'm Shailesh Gupta! 👋 ![image title](https://rushter.com/counter.svg)
 
-🚀 Cloud Consultant | AWS Certified | FinOps Certified | Automation Expert | Cloud Migration Expert | Driving Cloud Innovation at Amazon Web Services (AWS)
+🚀 Cloud Consultant | AWS Certified | FinOps Certified | Automation Expert | Cloud Migration Expert | DevOps Architect | Microsoft Certified Trainer 
 
 ![ShailAdmin's Stats](https://github-readme-stats.vercel.app/api?username=ShailAdmin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently Working with Amazon Web Services(AWS) as a Cloud Consultant.
 - 📝 As a dedicated Cloud Consultant, I am passionate about sharing my expertise and insights in technology through my YouTube channel [Be3X](https://www.youtube.com/@Be3x74).
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), [FinOps Foundation](https://www.finops.org/join/), contributing to the tech community.
 
 ### 📬Connect With Me
   Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
-- [LinkedIn](www.linkedin.com/in/shailesh74)
 - [Credly](https://www.credly.com/users/shailesh-gupta.9fd8745c/badges)
 - [Be3X](https://www.youtube.com/@Be3x74)
 - [Github](https://github.com/ShailAdmin)
