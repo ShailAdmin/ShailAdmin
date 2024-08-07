@@ -14,7 +14,7 @@
 - [Credly](https://www.credly.com/users/shaileshgupta.74)
 - [HybridCloudCommunity](https://www.youtube.com/@hybridcloudcommunity)
 - [Github](https://github.com/ShailAdmin)
-- <a href="https://www.openai.com" target="_blank">OpenAI</a>
+- <a href="https://www.credly.com/users/shaileshgupta.74" target="_blank">Credly</a>
 
 
 ## ✍️Tech Stack
