@@ -12,7 +12,7 @@
 ### 📬Connect With Me
   Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
 - [Credly](https://www.credly.com/users/shailesh-gupta.9fd8745c/badges)
-- [Be3X](https://www.youtube.com/@Be3x74)
+- [HybridCloudCommunity]([https://www.youtube.com/@Be3x74](https://www.youtube.com/@hybridcloudcommunity))
 - [Github](https://github.com/ShailAdmin)
 
 
