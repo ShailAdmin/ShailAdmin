@@ -11,7 +11,7 @@
 
 ### 📬Connect With Me
   Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
-- [Credly](https://www.credly.com/users/shailesh-gupta.9fd8745c/badges)
+- [Credly](https://www.credly.com/users/shaileshgupta.74)
 - [HybridCloudCommunity](https://www.youtube.com/@hybridcloudcommunity)
 - [Github](https://github.com/ShailAdmin)
 
@@ -22,6 +22,7 @@
 ## <img width="15" alt="images" src="https://github.com/ShailAdmin/ShailAdmin/assets/73438626/31916ea7-80c5-4fd1-a4b1-8d0d4cae567b">    Below are the Few Repository for your Daily Work
 - [Tool Cheatsheet](https://github.com/ShailAdmin/CheatSheet)
 - [DevOps Tools Installation](https://github.com/ShailAdmin/DevOps-Installation)
+- [Cloud Services](https://github.com/ShailAdmin/Cloud_Architect)
 
 ## 🌱 Currently Exploring
 
