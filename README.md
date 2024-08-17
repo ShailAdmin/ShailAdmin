@@ -8,6 +8,12 @@
 
 ## 🚀 About Me
 
+<p>I am a dedicated Cloud Consultant and DevOps Engineer with over 9 years of experience in software application operations, development, and support. My passion lies in designing innovative cloud infrastructure solutions and driving efficiency through automation. Currently, I work at Amazon Web Services, where I lead cloud migration and DevOps projects, delivering secure, scalable, and cost-effective solutions that align with business goals.
+
+With a strong foundation in project management, solution architecture, and cloud engineering, I have successfully managed diverse teams and complex projects across various industries. My technical expertise spans a range of tools and platforms, including AWS, Azure, Jenkins, Terraform, Docker, and Kubernetes.
+
+I thrive in collaborative environments and am always eager to explore new technologies and methodologies that drive business growth. Whether it's leading a cloud migration, optimizing infrastructure, or implementing CI/CD pipelines, I am committed to delivering excellence in every project I undertake</p>
+
 - 📝 As a dedicated Cloud Architect, I am passionate about sharing my expertise and insights in technology through my YouTube channel [HybridCloudCommunity](https://www.youtube.com/@hybridcloudcommunity).
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), [FinOps Foundation](https://www.finops.org/join/),[HybridCloudCommunity](#) contributing to the tech community.
 
