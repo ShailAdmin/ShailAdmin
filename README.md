@@ -49,4 +49,6 @@ I thrive in collaborative environments and am always eager to explore new techno
 - 🌟 [AWS Partner: Generative AI Essentials (Business)](https://www.credly.com/badges/34f8657f-a29e-4e3a-a87b-6998c0a11ecb/public_url)
 - 🌟 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/e14ea744-6673-4938-90c3-88b1c89f56c0/public_url)
 - 🌟 [AWS Knowledge: File Storage](https://www.credly.com/badges/e3d60348-e004-4280-a3fa-d8642241c66b/public_url)
+- 🌟 [AWS Knowledge: Migration Foundations](https://www.credly.com/badges/14d96cc9-d16c-4261-8baa-f21af81a719e/public_url)
+- 🌟 [AWS Educate Getting Started with Compute](https://www.credly.com/badges/99cc47fe-1baf-496e-b29e-4dda4fcf54cd/public_url)
   
