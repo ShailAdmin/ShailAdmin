@@ -1,6 +1,6 @@
 # Hi, I'm Shailesh Gupta! 👋 ![image title](https://rushter.com/counter.svg)
 
-<h2>Driving Cloud Innovation at Amazon Web Services (AWS)</h2>
+<h3>Driving Cloud Innovation at Amazon Web Services (AWS)</h3>
 
 🚀 Cloud Architect | DevOps Practice | Agile Methodology | Hybrid Cloud | AWS Certified | Microsoft Azure Certified |  FinOps Certified | Automation Expert | Cloud Migration  
 
@@ -8,16 +8,16 @@
 
 ## 🚀 About Me
 
-- 📝 As a dedicated Cloud Consultant, I am passionate about sharing my expertise and insights in technology through my YouTube channel [HybridCloudCommunity](https://www.youtube.com/@hybridcloudcommunity).
+- 📝 As a dedicated Cloud Architect, I am passionate about sharing my expertise and insights in technology through my YouTube channel [HybridCloudCommunity](https://www.youtube.com/@hybridcloudcommunity).
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), [FinOps Foundation](https://www.finops.org/join/),[HybridCloudCommunity](#) contributing to the tech community.
 
 ### 📬Connect With Me
-  Let's connect on LinkedIn to stay updated on upcoming videos, collaborate on projects, and discuss DevOps! Feel free to reach out with any questions, feedback, or collaboration opportunities.
+  Building meaningful connections is key to growth and innovation. Let’s connect on LinkedIn to share insights, collaborate, and explore opportunities together!
   
-- [HybridCloudCommunity](https://www.youtube.com/@hybridcloudcommunity)
+- [Linkedin](https://www.linkedin.com/in/shailesh74)
 - [Github](https://github.com/ShailAdmin)
-- <a href="https://www.credly.com/users/shaileshgupta.74" target="_blank">Credly</a>
-
+- [Credly](https://www.credly.com/users/shaileshgupta.74)
+- [Youtube](https://www.youtube.com/@hybridcloudcommunity)
 
 ## ✍️Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,bitbucket,debian,elasticsearch,github,gitlab,grafana,ai,jenkins,kubernetes,linux,nginx,py,redhat,terraform,ubuntu,vscode,windows,wordpress)](https://skillicons.dev)
