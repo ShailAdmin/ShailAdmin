@@ -12,7 +12,7 @@
 - 🌐 Proud member of the [Linux Foundation Community](https://community.linuxfoundation.org/), [FinOps Foundation](https://www.finops.org/join/),[HybridCloudCommunity](#) contributing to the tech community.
 
 ### 📬Connect With Me
-  Building meaningful connections is key to growth and innovation. Let’s connect on LinkedIn to share insights, collaborate, and explore opportunities together!
+  Building meaningful connections is key to growth and innovation. Let’s connect to share insights, collaborate, and explore opportunities together!
   
 - [Linkedin](https://www.linkedin.com/in/shailesh74)
 - [Github](https://github.com/ShailAdmin)
