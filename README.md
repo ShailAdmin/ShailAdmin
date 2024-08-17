@@ -26,7 +26,7 @@ I thrive in collaborative environments and am always eager to explore new techno
 - [Youtube](https://www.youtube.com/@hybridcloudcommunity)
 
 ## ✍️Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,redhat,ubuntu,debian,git,github,bitbucket,gitlab,codecommit,azurerepos,maven,ant,jenkins,docker,kubernets,terraform,ansible,elasticsearch,grafana,ai,nginx,py,vscode,windows,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,redhat,ubuntu,debian,git,github,bitbucket,gitlab,maven,jenkins,docker,kubernetes,terraform,ansible,elasticsearch,grafana,ai,nginx,py,vscode,windows,wordpress)](https://skillicons.dev)
 
 ## <img width="15" alt="images" src="https://github.com/ShailAdmin/ShailAdmin/assets/73438626/31916ea7-80c5-4fd1-a4b1-8d0d4cae567b">    Below are the Few Repository for your Daily Work
 - [Tool Cheatsheet](https://github.com/ShailAdmin/CheatSheet)
