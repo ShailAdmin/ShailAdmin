@@ -1,4 +1,4 @@
-# Hi, I'm Shailesh Gupta! 👋 ![image title](https://rushter.com/counter.svg)
+# Hi, I'm Shailesh Gupta! 👋 ![image title](https://rushter.com/counter.svg)Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shailesh74
 
 <h3>Driving Cloud Innovation at Amazon Web Services (AWS)</h3>
 
