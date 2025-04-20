@@ -35,10 +35,8 @@ I thrive in collaborative environments and am always eager to explore new techno
 
 ## 🌱 Currently Exploring
 
-  - Cloud FinOps
   - Scrum Master
   - Generative AI
-  - Reverse Engineering for Terraform
   - Automating Migration Strategies: Simplifying Transition Processes
 
 
