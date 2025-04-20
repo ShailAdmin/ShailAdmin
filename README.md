@@ -1,6 +1,6 @@
 # Hi, I'm Shailesh Gupta! 👋 ![image title](https://rushter.com/counter.svg)
 
-<h3>Driving Cloud Innovation at Amazon Web Services (AWS)</h3>
+<h3>Driving Cloud Innovation at Kyndryl India</h3>
 
 🚀 Cloud Architect | DevOps Practice | Agile Methodology | Hybrid Cloud | AWS Certified | Microsoft Azure Certified |  FinOps Certified | Automation Expert | Cloud Migration  
 
