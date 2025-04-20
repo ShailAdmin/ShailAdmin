@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<p>I am a dedicated Cloud Architect with over 9+ years of experience in software application operations, development, and support. My passion lies in designing innovative cloud infrastructure solutions and driving efficiency through automation. Currently, I work at Amazon Web Services, where I lead cloud migration and DevOps projects, delivering secure, scalable, and cost-effective solutions that align with business goals.
+<p>I am a dedicated Cloud Architect with over 10+ years of experience in software application operations, development, and support. My passion lies in designing innovative cloud infrastructure solutions and driving efficiency through automation. Currently, I work at Amazon Web Services, where I lead cloud migration and DevOps projects, delivering secure, scalable, and cost-effective solutions that align with business goals.
 
 With a strong foundation in project management, solution architecture, and cloud engineering, I have successfully managed diverse teams and complex projects across various industries. My technical expertise spans a range of tools and platforms, including AWS, Azure, Jenkins, Terraform, Docker, and Kubernetes.
 
