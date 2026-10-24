@@ -1,7 +1,9 @@
-# Save this as .github/workflows/snake.yml in the ShailAdmin/ShailAdmin repository.
-# It redraws your contribution graph as a snake animation every day and
-# publishes the SVGs to an "output" branch that the README reads from.
-name: Generate contribution snake
+# Redraws the profile visuals every day and publishes them to the "output"
+# branch that README.md reads from:
+#   - contribution snake animation (light + dark)
+#   - 31-day contribution activity graph (light + dark), drawn by
+#     .github/scripts/activity_graph.py so it never depends on an outside image host
+name: Generate profile visuals
 
 on:
   schedule:
@@ -18,6 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -25,6 +30,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate activity graph SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/activity_graph.py "${{ github.repository_owner }}" dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
