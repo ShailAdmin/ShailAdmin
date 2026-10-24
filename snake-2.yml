@@ -1,0 +1,45 @@
+# Redraws the profile visuals every day and publishes them to the "output"
+# branch that README.md reads from:
+#   - contribution snake animation (light + dark)
+#   - 31-day contribution activity graph (light + dark), drawn by
+#     .github/scripts/activity_graph.py so it never depends on an outside image host
+name: Generate profile visuals
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate activity graph SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/activity_graph.py "${{ github.repository_owner }}" dist
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
