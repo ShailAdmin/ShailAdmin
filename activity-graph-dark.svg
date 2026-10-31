@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="ShailAdmin contribution activity, last 31 days">
+<rect width="900" height="300" rx="8" fill="#1a1b27"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+<text x="450.0" y="32" text-anchor="middle" font-size="18" font-weight="600" fill="#c0caf5">ShailAdmin's contribution graph — last 31 days (26 contributions)</text>
+<line x1="56" x2="876" y1="256.0" y2="256.0" stroke="#2a2e45" stroke-width="1"/>
+<text x="46" y="260.0" text-anchor="end" font-size="12" fill="#787c99">0</text>
+<line x1="56" x2="876" y1="206.0" y2="206.0" stroke="#2a2e45" stroke-width="1"/>
+<text x="46" y="210.0" text-anchor="end" font-size="12" fill="#787c99">10</text>
+<line x1="56" x2="876" y1="156.0" y2="156.0" stroke="#2a2e45" stroke-width="1"/>
+<text x="46" y="160.0" text-anchor="end" font-size="12" fill="#787c99">20</text>
+<line x1="56" x2="876" y1="106.0" y2="106.0" stroke="#2a2e45" stroke-width="1"/>
+<text x="46" y="110.0" text-anchor="end" font-size="12" fill="#787c99">30</text>
+<line x1="56" x2="876" y1="56.0" y2="56.0" stroke="#2a2e45" stroke-width="1"/>
+<text x="46" y="60.0" text-anchor="end" font-size="12" fill="#787c99">40</text>
+<text x="56.0" y="282" text-anchor="middle" font-size="12" fill="#787c99">1 Oct</text>
+<text x="192.7" y="282" text-anchor="middle" font-size="12" fill="#787c99">6 Oct</text>
+<text x="329.3" y="282" text-anchor="middle" font-size="12" fill="#787c99">11 Oct</text>
+<text x="466.0" y="282" text-anchor="middle" font-size="12" fill="#787c99">16 Oct</text>
+<text x="602.7" y="282" text-anchor="middle" font-size="12" fill="#787c99">21 Oct</text>
+<text x="739.3" y="282" text-anchor="middle" font-size="12" fill="#787c99">26 Oct</text>
+<text x="876.0" y="282" text-anchor="middle" font-size="12" fill="#787c99">31 Oct</text>
+<polygon points="56.0,256 56.0,256.0 83.3,256.0 110.7,256.0 138.0,256.0 165.3,256.0 192.7,256.0 220.0,256.0 247.3,256.0 274.7,256.0 302.0,256.0 329.3,256.0 356.7,256.0 384.0,256.0 411.3,256.0 438.7,256.0 466.0,256.0 493.3,256.0 520.7,256.0 548.0,256.0 575.3,256.0 602.7,256.0 630.0,256.0 657.3,256.0 684.7,241.0 712.0,141.0 739.3,256.0 766.7,256.0 794.0,256.0 821.3,256.0 848.7,256.0 876.0,256.0 876.0,256" fill="#7aa2f7" fill-opacity="0.18"/>
+<polyline points="56.0,256.0 83.3,256.0 110.7,256.0 138.0,256.0 165.3,256.0 192.7,256.0 220.0,256.0 247.3,256.0 274.7,256.0 302.0,256.0 329.3,256.0 356.7,256.0 384.0,256.0 411.3,256.0 438.7,256.0 466.0,256.0 493.3,256.0 520.7,256.0 548.0,256.0 575.3,256.0 602.7,256.0 630.0,256.0 657.3,256.0 684.7,241.0 712.0,141.0 739.3,256.0 766.7,256.0 794.0,256.0 821.3,256.0 848.7,256.0 876.0,256.0" fill="none" stroke="#7aa2f7" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="56.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-01: 0</title></circle>
+<circle cx="83.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-02: 0</title></circle>
+<circle cx="110.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-03: 0</title></circle>
+<circle cx="138.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-04: 0</title></circle>
+<circle cx="165.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-05: 0</title></circle>
+<circle cx="192.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-06: 0</title></circle>
+<circle cx="220.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-07: 0</title></circle>
+<circle cx="247.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-08: 0</title></circle>
+<circle cx="274.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-09: 0</title></circle>
+<circle cx="302.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-10: 0</title></circle>
+<circle cx="329.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-11: 0</title></circle>
+<circle cx="356.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-12: 0</title></circle>
+<circle cx="384.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-13: 0</title></circle>
+<circle cx="411.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-14: 0</title></circle>
+<circle cx="438.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-15: 0</title></circle>
+<circle cx="466.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-16: 0</title></circle>
+<circle cx="493.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-17: 0</title></circle>
+<circle cx="520.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-18: 0</title></circle>
+<circle cx="548.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-19: 0</title></circle>
+<circle cx="575.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-20: 0</title></circle>
+<circle cx="602.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-21: 0</title></circle>
+<circle cx="630.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-22: 0</title></circle>
+<circle cx="657.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-23: 0</title></circle>
+<circle cx="684.7" cy="241.0" r="3.5" fill="#bb9af7"><title>2026-10-24: 3</title></circle>
+<circle cx="712.0" cy="141.0" r="3.5" fill="#bb9af7"><title>2026-10-25: 23</title></circle>
+<circle cx="739.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-26: 0</title></circle>
+<circle cx="766.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-27: 0</title></circle>
+<circle cx="794.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-28: 0</title></circle>
+<circle cx="821.3" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-29: 0</title></circle>
+<circle cx="848.7" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-30: 0</title></circle>
+<circle cx="876.0" cy="256.0" r="3.5" fill="#bb9af7"><title>2026-10-31: 0</title></circle>
+<text x="56" y="298" font-size="11" fill="#787c99">Contributions per day · updated 2026-10-31</text>
+</svg>
